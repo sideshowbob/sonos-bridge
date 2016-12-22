@@ -1,0 +1,13 @@
+{
+	"sonoshost": "192.168.1.35",
+	"buttons":[
+		{
+			"id":0,
+			"url": "\\\\nas\\music\\abc"
+		},
+		{
+			"id":1,
+			"url": "\\\\nas\\music\\abc"
+		}
+	]
+}
